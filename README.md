@@ -1,3 +1,3 @@
-# Gitflow Lab 5
+# Gitflow Lab 5 - Feature Version
 
-Repository for Task-5 Gitflow workflow demonstration.
+This is the feature branch version of the README file.
