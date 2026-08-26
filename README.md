@@ -1,3 +1,3 @@
-# Gitflow Lab 5 - Feature Version
+# Gitflow Lab 5 - Integrated Version
 
-This is the feature branch version of the README file.
+Demonstrating Gitflow workflow, feature branches, and merge conflict resolution.
